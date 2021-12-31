@@ -3,6 +3,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace CustomTagHelper
 {
+    
     public class Program
     {
         public static void Main(string[] args)

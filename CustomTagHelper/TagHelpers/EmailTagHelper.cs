@@ -2,6 +2,7 @@
 
 namespace CustomTagHelper.TagHelpers
 {
+    //[HtmlTargetElement("CustomEmail")] klass adından fərqli Tag adı yaza bilərik
     public class EmailTagHelper:TagHelper
     {
         public string Mail { get; set; }
